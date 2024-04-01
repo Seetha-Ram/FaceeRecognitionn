@@ -1,0 +1,9 @@
+opencv-python
+mediapipe
+numpy
+streamlit
+facenet-pytorch
+torch
+pillow
+torchvision
+gunicorn
